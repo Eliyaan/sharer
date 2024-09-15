@@ -1,3 +1,5 @@
+module xwrap
+
 #include <X11/Xlib.h>
 #include <X11/keysym.h>
 #flag -lX11
